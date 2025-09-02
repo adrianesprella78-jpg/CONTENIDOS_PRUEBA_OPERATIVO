@@ -1,1 +1,6 @@
 # CONTENIDOS_PRUEBA_OPERATIVO
+
+## GRUPO1 ##
+
+* ADRIAN ESPRELLA <adrianesprella78@gmail.com>
+* ISRAEL
